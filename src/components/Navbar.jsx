@@ -37,7 +37,7 @@ function NavbarComponent() {
           <Navbar.Brand style={{ fontSize: 50 }} href="/">
             <span style={{ fontSize: 50, color: "HotPink" }}>1</span>
             <span style={{ fontSize: 50, color: "blue" }}>0</span>
-            <span style={{ fontSize: 50, color: "fireBrick" }}>00</span>
+            <span style={{ fontSize: 50, color: "fireBrick" }}>0</span>
             <span style={{ fontSize: 50, color: "limeGreen" }}> F</span>
             <span style={{ fontSize: 50, color: "dodgerBlue" }}>I</span>
             <span style={{ fontSize: 50, color: "orangeRed" }}>R</span>

@@ -12,7 +12,7 @@ function Success() {
         Please contact us at Ahunnitfires@gmail.com with any questions regarding
         your purchase.
       </p>
-      <img className="img-suc" src="img/logo.PNG" alt="" />
+      <img className="img-suc" src="img/IMG_1921.PNG" alt="" />
     </div>
   );
 }

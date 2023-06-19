@@ -5,7 +5,7 @@ function Store() {
   return (
     <div className="store-wrap">
       <h1 align="center" className="p-3">
-        <img className="logo-img" src="img/logo.PNG" alt="" />
+        <img className="logo-img" src="img/IMG_1921.PNG" alt="" />
       </h1>
       <Row xs={1} md={3} className="g-4">
         {productsArray.map((product, idx) => (
