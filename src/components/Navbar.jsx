@@ -9,7 +9,7 @@ function NavbarComponent() {
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
   const checkout = async () => {
-    await fetch("https://100fires.netlify.app//checkout", {
+    await fetch("http://localhost:4000/checkout", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
