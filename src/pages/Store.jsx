@@ -16,7 +16,7 @@ function Store() {
         <Card className="shadow p-3 mb-5 bg-body rounded">
           <Card.Body>
             <Card.Text>
-              {<img className="product-img" src="img/tshirtf.png" alt="" />}
+              {<img className="product-img" src="img/tshirt2.png" alt="" />}
             </Card.Text>
             <Card.Title
               style={{ fontSize: 20, textAlign: "center" }}
